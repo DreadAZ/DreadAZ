@@ -18,11 +18,11 @@ paintings = {
           "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Aivazovsky%2C_Ivan_-_The_Ninth_Wave.jpg"},
          {"title": "Утро в сосновом лесу", "artist": "Иван Шишкин", "year": 1889,
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Shishkin%2C_Ivan_-_Morning_in_a_Pine_Forest.jpg/800px-Shishkin%2C_Ivan_-_Morning_in_a_Pine_Forest.jpg"},
-         {"title": "Сирень", "artist": "Ван Гог", "year": 1889,
+         {"title": "Сирень", "artist": "Винсент Ван Гог", "year": 1889,
           "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Vincent_van_Gogh_-_Irises_-_Google_Art_Project.jpg"},
     ],
     "medium": [
-        {"title": "Девочка с персиками", "artist": "Пьер-Auguste Ренуар", "year": 1881,
+        {"title": "Девочка с персиками", "artist": "Валентин Серов", "year": 1881,
          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Valentin_Serov_-_Девочка_с_персиками._Портрет_В.С.Мамонтовой_-_Google_Art_Project.jpg/380px-Valentin_Serov_-_Девочка_с_персиками._Портрет_В.С.Мамонтовой_-_Google_Art_Project.jpg"},
         {"title": "Ночная стража", "artist": "Рембрандт", "year": 1642,
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/573px-The_Night_Watch_-_HD.jpg"},
